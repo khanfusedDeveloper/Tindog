@@ -1,0 +1,128 @@
+body {
+
+    font-family: "Montserrat";
+
+
+}
+#adult-lady{
+    border-radius: 50%;
+}
+#title {
+    background-color: #ff4c68;
+}
+#testimonials{
+    background-color: #ff4c68;
+    padding: 3% 15%
+}
+
+.dog{
+text-align: center;
+
+}
+
+#dog-profile {
+
+    border-radius: 50%;
+
+}
+
+#dog-profile-text {
+    color: white;
+    padding: 3%;
+
+}
+
+h1{
+    font-weight: bold;
+    font-size: 5rem;
+    line-height: 1.5;
+    color: white;
+    /* padding-left: 1.5rem; */
+}
+
+.h2-testimonials{
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+    text-align: center;
+}
+
+#h2-dog-plan{
+
+    font-weight: bold;
+    font-size: 4rem;
+    color: white;
+
+}
+h3 {
+
+    font-weight: bold;
+    font-size: 3rem;
+
+    
+
+}
+.h3-pricing{
+    font-weight: bold;
+    font-size: 3rem;
+    color: white;
+}
+
+.pricing-div{
+    background-color: #ff4c68;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.carousel-item{
+    height: fit-content;
+    width: fit-content;
+    color: white;
+}
+#testimonial-container{
+
+    width: 100rem;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+    height:fit-content;
+    width: fit-content;
+    background-color: grey;
+
+}
+
+.navbar-brand{
+
+    color: white;
+    font-weight: bold;
+    font-family: "Ubuntu";
+    padding-left: 1.5rem;
+    font-size: 50px;
+}
+.press-div{
+
+    /* background-color: black; */
+
+}
+#last-nav-item {
+    padding-right: 1.5rem;
+}
+
+.nav-link{
+    color: white;
+}
+
+.second-row{
+
+    margin-top: 5%;
+
+}
+.final-download-buttons{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
